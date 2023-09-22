@@ -2,4 +2,4 @@
 # Santiago Della Sala
 # Diego Hidalgo
 # Yohanna Lucero
-# Ulises Farias
+# Ulises Farias : edad : 20 , residencia : Córdoba
