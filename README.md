@@ -1,5 +1,5 @@
 ## Trabajo Practico MOVIES
 # Santiago Della Sala, Edad: 30, Ciudad: Buenos Aires.
 # Diego Hidalgo
-# Yohanna Lucero
-# Ulises Farias : edad : 20 , residencia : Córdoba
+# Yohanna Lucero 30 Buenos Aires
+# Ulises Farias : edad:20, recidencia : Córdoba.
